@@ -8,7 +8,6 @@ public class Q13 {
         int free = buy / 3;
         int total = buy + free;
         int amount = buy * price;
-
         System.out.println("Total Mangoes: " + total);
         System.out.println("Amount: " + amount);
     }
