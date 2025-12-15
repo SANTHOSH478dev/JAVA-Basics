@@ -13,3 +13,4 @@ public class Q7 {
         System.out.println("Bill = " + bill);
     }
 }
+0
